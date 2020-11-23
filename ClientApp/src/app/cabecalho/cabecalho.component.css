@@ -1,0 +1,20 @@
+#logo {
+  padding: 20px;
+  background-color: #9c27b0;
+  color: #fff;
+}
+
+  #logo > img {
+    width: 120px;
+  }
+
+  #logo > span#titulo {
+      display: inline-block;
+      font-size: 24px;
+  }
+
+  #logo > span#subtitulo {
+    display: inline-block;
+    font-size:16px;
+  }
+
